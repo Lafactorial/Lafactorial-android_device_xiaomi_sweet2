@@ -117,6 +117,8 @@ vendor/etc/init/init.batterysecret.rc
 -vendor/lib64/libalCFR.so
 -vendor/lib64/libalLDC.so
 -vendor/lib64/libalhLDC.so
+-vendor/lib64/libarcdualcamsat.so
+-vendor/lib64/libarcsat.so
 -vendor/lib64/libbeauty_face_interface.so
 -vendor/lib64/libc++_shared.so
 -vendor/lib64/libcamera_dirty.so
@@ -164,6 +166,7 @@ vendor/etc/init/init.batterysecret.rc
 -vendor/lib64/libSnpeHtpV68Stub.so
 -vendor/lib64/libSnpeHtpV69Stub.so
 -vendor/lib64/libsns_device_mode_stub.so
+-vendor/lib64/libsns_registry_skel.so
 -vendor/lib64/libswregistrationalgo.so
 -vendor/lib64/libswvdec.so
 -vendor/lib64/libsymphony-cpu.so
